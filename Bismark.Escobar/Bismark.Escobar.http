@@ -1,0 +1,6 @@
+@Bismark.Escobar_HostAddress = http://localhost:5272
+
+GET {{Bismark.Escobar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
